@@ -1,0 +1,21 @@
+# Generated outputs
+figures/
+results/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Notebook crud
+.ipynb_checkpoints/
+
+# Env & secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
